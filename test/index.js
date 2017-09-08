@@ -1,6 +1,6 @@
 var expect = require("chai").expect;
 var assert = require('chai').assert;
-var strongTypes = require('../index')();
+var strongTypes = require('../index');
 
 describe("Strong Types - String", function() {
 
