@@ -9,7 +9,7 @@ Install the package ```bash npm install stronglyt --save```
 
 ```javascript
 //Include the utils
-var types = require('stronglyt')();
+var types = require('stronglyt');
 
 
 //Call a method
