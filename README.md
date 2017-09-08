@@ -1,6 +1,6 @@
 # Js "strongly typed"
 
-> This package provides a few helper methods to help you checking if a value is e.g a string or number.
+> This package provides a few helper methods helping you checking if a value is e.g a string or number.
 
 ## How to use:
 
